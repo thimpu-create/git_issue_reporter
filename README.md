@@ -55,7 +55,7 @@ urlpatterns = [
 ### Accessing the Issue Reporter
 Once the module is included, you can access the issue reporting page by visiting:
 ```
-http://<your-domain>/module/report-issue/
+http://thimpu-create/module/report-issue/
 ```
 
 ---
